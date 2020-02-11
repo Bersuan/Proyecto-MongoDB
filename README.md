@@ -1,6 +1,6 @@
 # Proyecto-MongoDB
 
-https://github.com/Bersuan/Proyecto-MongoDB/blob/master/input/portada-esports.jpg
+![alt text](https://github.com/Bersuan/Proyecto-MongoDB/blob/master/input/portada-esports.jpg)
 
 ### ¿Donde situarias tu empresa
 
