@@ -18,14 +18,14 @@ En este proyecto se nos presentaba la oportunidad de geolocalizar la mejor ubica
 
 Como ingeniero de datos, nos pedido a todos los empleados que muestren sus preferencias sobre dónde ubicar la nueva oficina. Su objetivo es colocar las nuevas oficinas de la compañía en el mejor lugar para que la compañía crezca. Tienes que encontrar un lugar que cubra más o menos todos los siguientes requisitos. Tenga en cuenta que es imposible cubrir todos los requisitos , por lo que debe priorizar a simple vista.
 
-A los diseñadores les gusta ir a charlas de diseño y compartir conocimientos. Debe haber algunas empresas cercanas que también hacen diseño.
-El 30% de la empresa tiene al menos 1 hijo.
-A los desarrolladores les gusta estar cerca de startups tecnológicas exitosas que han recaudado al menos 1 millón de dólares.
-A los ejecutivos le gusta MUCHO Starbucks. Asegúrese de que hay un Starbucks no muy lejos.
-Los gerentes de cuentas necesitan viajar mucho
-Todas las personas en la empresa tienen entre 25 y 40 años, deles un lugar para ir de fiesta.
-A nadie en la compañía le gusta tener compañías con más de 10 años en un radio de 2 KM.
-El CEO es vegano
+A los diseñadores les gusta ir a charlas de diseño y compartir conocimientos. Debe haber algunas empresas cercanas que también hacen diseño.\
+El 30% de la empresa tiene al menos 1 hijo.\
+A los desarrolladores les gusta estar cerca de startups tecnológicas exitosas que han recaudado al menos 1 millón de dólares.\
+A los ejecutivos le gusta MUCHO Starbucks. Asegúrese de que hay un Starbucks no muy lejos.\
+Los gerentes de cuentas necesitan viajar mucho.\
+Todas las personas en la empresa tienen entre 25 y 40 años, deles un lugar para ir de fiesta.\
+A nadie en la compañía le gusta tener compañías con más de 10 años en un radio de 2 KM.\
+El CEO es vegano.
 
 En nuestro estudio, hemos comenzado filtrando aquellas empresas tecnológicas que habian ganado mas de $1M, desde una base de datos de MogngoDb.
 
