@@ -43,6 +43,8 @@ El ultimo filtro, y no por ello menos importamte, a sido el de tener un aereopue
 
 Una vez realizados estos filtros nos ha salido la geolocación perfecta para el bienestar comun de nuestra empresa, situandose esta en: 
 
+![alt text](https://github.com/Bersuan/Proyecto-MongoDB/blob/master/input/Mapa-Geolocalizaci%C3%B3n.png)
+
 ##### 2 Catherine St Londres, Inglaterra
 ##### Latitud: 51.512051 | Longitud: -0.120488
 
