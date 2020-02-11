@@ -30,6 +30,7 @@ El CEO es vegano
 En nuestro estudio, hemos comenzado filtrando aquellas empresas tecnológicas que habian ganado mas de $1M, desde una base de datos de MogngoDb.
 
 EL segundo filtro, ha sido priorizar la actualidad, y viendo donde se situaban la mayoria de esas empresas y aprovechando el "BOOM" Gaming de Londres, nos decantamos por colocar nuestra oficina en esa ciudad.
+https://www.bbc.com/news/newsbeat-51400755
 
 El tercer filtro ha sido buscar buscar coegios por la zona en un radio de 2km para que los padres de nuestra empresa puedan llevar a sus hijos sin perder mucho tiempo, para conseguir estas geolocalizaciones hemos usado la API de google, lanzando las requests necesarias para obetener la informacion deseada.
 
