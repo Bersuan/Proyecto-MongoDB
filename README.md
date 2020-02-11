@@ -2,15 +2,15 @@
 ### ¿Donde situarias tu empresa?
 En este proyecto se nos presentaba la oportunidad de geolocalizar la mejor ubicación para crear nuestra Startup: "GAMING Industry" para ello contabamos con el siguiente equipo:
 
-··*20 diseñadores
-··*5 ingenieros de UI / UX
-··*10 desarrolladores frontend
-··*15 ingenieros de datos
-··*5 desarrolladores de backend
-··*20 gerentes de cuenta
-··*1 mantenimiento que ama el baloncesto
-··*10 ejecutivos
-··*1 CEO / Presidente
+··* 20 diseñadores
+··* 5 ingenieros de UI / UX
+··* 10 desarrolladores frontend
+··* 15 ingenieros de datos
+··* 5 desarrolladores de backend
+··* 20 gerentes de cuenta
+··* 1 mantenimiento que ama el baloncesto
+··* 10 ejecutivos
+··* 1 CEO / Presidente
 
 Como ingeniero de datos, nos pedido a todos los empleados que muestren sus preferencias sobre dónde ubicar la nueva oficina. Su objetivo es colocar las nuevas oficinas de la compañía en el mejor lugar para que la compañía crezca. Tienes que encontrar un lugar que cubra más o menos todos los siguientes requisitos. Tenga en cuenta que es imposible cubrir todos los requisitos , por lo que debe priorizar a simple vista.
 
