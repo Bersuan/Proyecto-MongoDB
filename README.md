@@ -43,8 +43,18 @@ El ultimo filtro, y no por ello menos importamte, a sido el de tener un aereopue
 
 Una vez realizados estos filtros nos ha salido la geolocación perfecta para el bienestar comun de nuestra empresa, situandose esta en: 
 
+![alt text](https://github.com/Bersuan/Proyecto-MongoDB/blob/master/input/Mapa-Geolocalizaci%C3%B3n.png)
+
 ##### 2 Catherine St Londres, Inglaterra
 ##### Latitud: 51.512051 | Longitud: -0.120488
+
+El punto negro representa la localizción de nuestra empresa.\
+El punto rojo son aquellas startups que ha ganado mas de $1Millon.\
+El punto naranja son los lugares para el afterwork.\
+El punto amarillo son aquellos colegios a los cuales los empleados pueden llevar a sus hijos.\
+El punto morado son los restaurantes veganos para el CEO.\
+El punto verde son los Starbucks que tanto gusta.\
+Y aunque el punto azul no aparece (aerepuerto) tenemos el de Heatrow a 40 minutos.
 
 
 
