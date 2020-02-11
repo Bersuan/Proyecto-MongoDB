@@ -1,7 +1,5 @@
 # Proyecto-MongoDB
 
-![alt text]http://www.rrhhdigital.com/secciones/eventos-rrhhdigital/136874/RRHHDigital-y-Psicosoft-eSport-Academy-lanzan-la-2%C2%AA-eSports-Business-League?target=_self
-
 ### ¿Donde situarias tu empresa?
 En este proyecto se nos presentaba la oportunidad de geolocalizar la mejor ubicación para crear nuestra Startup: "GAMING Industry" para ello contabamos con el siguiente equipo:
 
