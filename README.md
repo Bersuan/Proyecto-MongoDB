@@ -2,7 +2,7 @@
 
 ![alt text](https://github.com/Bersuan/Proyecto-MongoDB/blob/master/input/portada-esports.jpg)
 
-### ¿Donde situarias tu empresa
+### ¿Donde situarias tu empresa?
 
 En este proyecto se nos presentaba la oportunidad de geolocalizar la mejor ubicación para crear nuestra Startup: "GAMING Industry" para ello contabamos con el siguiente equipo:
 
